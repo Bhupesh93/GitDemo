@@ -5,7 +5,7 @@ public class GitMain {
 
     public static void main(String arg[]) {
         System.out.println("This is git demo ");
-        print("git", 100);
+        print("git", 101);
 
     }
 
