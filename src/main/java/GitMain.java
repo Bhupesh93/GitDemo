@@ -5,8 +5,8 @@ public class GitMain {
 
     public static void main(String arg[]) {
         System.out.println("This is git demo ");
-        print("git", 101);
-
+        print("git", 102);
+        print("demo",110);
     }
 
     private static void print(String word, int noOfTimes) {
