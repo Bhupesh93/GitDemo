@@ -7,7 +7,7 @@ public class GitMain {
         System.out.println("This is git demo ");
         print("git", 102);
         print("demo",110);
-    }
+	}
 
     private static void print(String word, int noOfTimes) {
         for (int i = 0; i < noOfTimes; i++)
